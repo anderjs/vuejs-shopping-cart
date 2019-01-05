@@ -23,8 +23,3 @@
     },
   }
 </script>
-
-<style scoped>
-
-
-</style>

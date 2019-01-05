@@ -25,7 +25,6 @@
 <script>
   // Importing All Vue.js components
   import NavbarVue from './components/Navbar.vue';
-  import ContainerVue from './components/Container.vue';
   import ShoppingFormVue from './components/ShoppingForm.vue';
   import ShoppingListVue from './components/ShoppingList.vue';
   import TotalItemVue from './components/TotalItem.vue';
@@ -36,7 +35,6 @@
     // Conventional Components Name
     components: {
       'v-navbar': NavbarVue,
-      'v-container': ContainerVue,
       'v-form': ShoppingFormVue,
       'v-list': ShoppingListVue,
       'v-total': TotalItemVue,

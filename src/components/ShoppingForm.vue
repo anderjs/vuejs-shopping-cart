@@ -54,15 +54,5 @@
     created() {
       this.items = JSON.parse(JSON.stringify(data));
     },
-
-    methods: {
-      
-    }
   }
 </script>
-
-<style>
-  .icon-light {
-    color: #F5F5F5 !important;
-  }
-</style>
