@@ -3,7 +3,8 @@
 > A Vue.js simple application with the pattern of functional programming read the fully
 [Docs](https://github.com/anderjs/vuejs-shopping-cart/tree/master/docs)
 
-
+Preview of the application [Screenshot-1](https://imgur.com/a/0SwDDxT)
+Preview of the application [Screenshot-2](https://imgur.com/a/gH67Zz9)
 ## Build Setup
 
 ``` bash
