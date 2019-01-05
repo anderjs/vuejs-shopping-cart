@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "cost": 1000,
+    "name": "IPhone X"
+  },
+  {
+    "id": 2,
+    "cost": 1500,
+    "name": "MacBook Pro"
+  },
+  {
+    "id": 3,
+    "cost": 3000,
+    "name": "Intel Core i9"
+  },
+  {
+    "id": 4,
+    "cost": 150,
+    "name": "Pink Floyd Vinyl"
+  }
+]
