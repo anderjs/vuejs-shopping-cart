@@ -1,6 +1,6 @@
 # Vue.js Shopping Cart
 
-> A Vue.js simple application with the pattern of functional programming read the fully documentation.
+> A Vue.js simple application with the pattern of functional programming read the fully
 [Docs](https://github.com/anderjs/vuejs-shopping-cart/tree/master/docs)
 
 
