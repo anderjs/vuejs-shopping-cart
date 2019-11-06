@@ -22,4 +22,4 @@ new Vue({
   components: { App },
   template: '<App/>',
   BootstrapVue,
-});
+}).$mount('#app')
